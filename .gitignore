@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+dist/*.css
+dist/fonts/*.woff
+dist/fonts/*.woff2
+*.sh
